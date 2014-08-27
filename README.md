@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Test-kart
 
 This README outlines the details of collaborating on this Ember application.
@@ -23,3 +24,9 @@ This README outlines the details of collaborating on this Ember application.
 * `ember build`
 
 For more information on using ember-cli, visit [http://iamstef.net/ember-cli/](http://iamstef.net/ember-cli/).
+=======
+test-kart
+=========
+
+ekart-tempalte
+>>>>>>> 218740ba38e74c5bf5767411804a67a530b9131e
